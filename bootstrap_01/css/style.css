@@ -1,0 +1,35 @@
+.box{
+	min-height: 100px;
+	background: red;
+	margin-bottom: 5px;
+}
+
+.box1{
+	min-height: 100px;
+	background: blue;
+	margin-bottom: 5px;
+}
+
+.box2{
+	min-height: 100px;
+	background: green;
+	margin-bottom: 5px;
+}
+
+.box3{
+	min-height: 100px;
+	background: teal;
+	margin-bottom: 5px;
+}
+
+.box4{
+	min-height: 100px;
+	background: pink;
+	margin-bottom: 5px;
+}
+
+.box5{
+	min-height: 100px;
+	background: yellow;
+	margin-bottom: 5px;
+}
